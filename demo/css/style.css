@@ -1,0 +1,47 @@
+html{
+  background-color: forestgreen;
+}
+body{
+  width:50%;
+  height:50%;
+  bottom: 50%;
+  text-align: center;
+  margin: auto;
+  margin-top: 15%;
+  background-color: deepskyblue;
+}
+#brand_logo{
+  width:20%;
+  background-color: lightpink;
+}
+a {
+  text-decoration: none;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+a:hover{
+  color:white;
+  background-color: darkred;
+}
+.login{
+  height: 50%;
+  width: 50%;
+  background-color: deepskyblue;
+  margin: auto;
+  margin-top: 25%;
+  text-align: center;
+  padding: 5px;
+}
+.inputField{
+  height: 20px;
+
+}
+.btn{
+  width:100px;
+  height: 25px;
+  background-color: blue;
+  color:white;
+  border: 1px solid white;
+  border-radius: 5px;
+
+}
